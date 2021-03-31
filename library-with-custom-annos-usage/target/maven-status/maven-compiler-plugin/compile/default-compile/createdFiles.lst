@@ -1,0 +1,5 @@
+com\mytests\spring\customBeans\components\LibCompo2.class
+com\mytests\spring\customBeans\conf\LibCompo1.class
+com\mytests\spring\customBeans\conf\LibConfig.class
+com\mytests\spring\customBeans\components\LibCompo3.class
+com\mytests\spring\customBeans\beans\LibBean1.class
